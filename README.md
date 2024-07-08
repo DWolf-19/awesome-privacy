@@ -63,7 +63,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - [Obtainium](https://obtainium.imranr.dev/) - Get and update Android apps straight from the source. You can specify F-Droid page, GitHub/GitLab/Codeberg repository or even **website** with link to downloadable apk!
 
 <img src="assets/check.svg"></img> **Alternative Google Play Store clients:**
-- <img src="assets/law-soft.svg"></img> [Aurora Store](https://www.auroraoss.com/) - Enables you to search and download apps from the official Google Play store. You can check app descriptions, screenshots, updates, reviews, and download the APK directly from Google Play to your device. Also allow you to login anonymously.
+- <img src="assets/law.svg"></img> [Aurora Store](https://www.auroraoss.com/) - Enables you to search and download apps from the official Google Play store. You can check app descriptions, screenshots, updates, reviews, and download the APK directly from Google Play to your device. Also allow you to login anonymously.
 
 #### Basic Apps
 
@@ -191,7 +191,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - <img src="assets/decentralized.svg"></img> <img src="assets/fediverse.svg"></img> PeerTube
 
 <img src="assets/check.svg"></img> **Alternative YouTube clients:**
-- <img src="assets/law-soft.svg"></img> <img src="assets/creator-soft.svg"></img> [LibreTube](https://libretube.dev/) - A beautiful alternative frontend for YouTube, for Android using [Piped](https://github.com/TeamPiped/Piped). Built with Material Design.
+- <img src="assets/law.svg"></img> <img src="assets/pay.svg"></img> [LibreTube](https://libretube.dev/) - A beautiful alternative frontend for YouTube, for Android using [Piped](https://github.com/TeamPiped/Piped). Built with Material Design.
 
 ## Design Tools
 
@@ -233,8 +233,8 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - Epic Games Launcher.
 
 <img src="assets/check.svg"></img> **Instead use**:
-- <img src="assets/law-soft.svg"></img> [Heroic Games Launcher](https://heroicgameslauncher.com/) - Free and open source Epic Games Store, GOG and Amazon Prime Games launcher for Linux, Windows and macOS. Get free games or buy new ones directly from Heroic's interface. On Linux, download the latest version of Wine-GE, Wine-Lutris or even Proton-GE using the built-in Wine Manager.
-- <img src="assets/law-soft.svg"></img> [Lutris](https://lutris.net/) - Free and open source game manager for Linux. Get direct access to your Steam, Epic Games Store, GOG and Humble Bundle game libraries from the Lutris client to seamlessly launch games from a single location. By leveraging and combining existing emulators, engine re-implementations and compatibility layers, it gives you a central interface to launch all your games.  
+- <img src="assets/law.svg"></img> [Heroic Games Launcher](https://heroicgameslauncher.com/) - Free and open source Epic Games Store, GOG and Amazon Prime Games launcher for Linux, Windows and macOS. Get free games or buy new ones directly from Heroic's interface. On Linux, download the latest version of Wine-GE, Wine-Lutris or even Proton-GE using the built-in Wine Manager.
+- <img src="assets/law.svg"></img> [Lutris](https://lutris.net/) - Free and open source game manager for Linux. Get direct access to your Steam, Epic Games Store, GOG and Humble Bundle game libraries from the Lutris client to seamlessly launch games from a single location. By leveraging and combining existing emulators, engine re-implementations and compatibility layers, it gives you a central interface to launch all your games.  
 
 ## Developer Tools
 
