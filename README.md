@@ -188,10 +188,10 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 <img src="assets/avoid.svg"></img> Avoid YouTube or at least official clients.
 
 <img src="assets/check.svg"></img> **Instead use**:
-- <img src="assets/decentralized.svg"></img> <img src="assets/fediverse.svg"></img> PeerTube
+- <img src="assets/decentralized.svg"></img> <img src="assets/fediverse.svg"></img> [PeerTube](https://joinpeertube.org/) - Decentralized video hosting. PeerTube allows platforms to be connected to each other, creating a big network of platforms that are both autonomous and interconnected. No ads, trackers, or premium subscriptions.
 
 <img src="assets/check.svg"></img> **Alternative YouTube clients:**
-- <img src="assets/law.svg"></img> <img src="assets/pay.svg"></img> [LibreTube](https://libretube.dev/) - A beautiful alternative frontend for YouTube, for Android using [Piped](https://github.com/TeamPiped/Piped). Built with Material Design.
+- <img src="assets/law.svg"></img> <img src="assets/pay.svg"></img> [LibreTube](https://libretube.dev/) - A beautiful alternative frontend for YouTube for Android using [Piped](https://github.com/TeamPiped/Piped). Built with Material Design.
 
 ## Design Tools
 
