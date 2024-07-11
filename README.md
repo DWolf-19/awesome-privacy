@@ -22,6 +22,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - [Developer Tools](#developer-tools)
 - [Game Launchers](#game-launchers)
 - [Git Hosting](#git-hosting)
+    - [GitHub](#github)
 - [Mail](#mail)
 - [Messaging & Calls](#messaging--calls)
 - [Note-taking](#note-taking)
@@ -81,11 +82,11 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - <img src="assets/law.svg"></img> [Lutris](https://lutris.net/) - Free and open source game manager for Linux. Get direct access to your Steam, Epic Games Store, GOG and Humble Bundle game libraries from the Lutris client to seamlessly launch games from a single location. By leveraging and combining existing emulators, engine re-implementations and compatibility layers, it gives you a central interface to launch all your games.
 
 ## Git Hosting
+### GitHub
 
-<img src="assets/avoid.svg"></img> **Avoid:**
-- GitHub.
+<img src="assets/q.svg"></img> GitHub **is not bad** and has [good privacy policy](https://tosdr.org/en/service/297). GitHub also has [open REST API](https://docs.github.com/en/rest) so anyone can make their own client. However, it is owned by Microsoft, which can make *very bad decisions*. Official mobile client is proprietary, but have [only one tracker (crash reports)](https://reports.exodus-privacy.eu.org/en/reports/com.github.android/latest/). GitHub can also train AI on your code, but if you're OK with it, use it.
 
-<img src="assets/check.svg"></img> **Instead use**:
+<img src="assets/check.svg"></img> **You can also use**:
 - [GitLab](https://about.gitlab.com/) - The most advanced all-in-one DevSecOps platform. You can self-host it on your own server.
 - [Codeberg](https://codeberg.org/) - Collaboration platform providing Git hosting and services for free and open source software. Codeberg is maintained by the non-profit organization Codeberg e.V., based in Berlin, Germany. No tracking. No third-party cookies. No profiteering. 
 - [Gitea](https://about.gitea.com/) - Enables the creation and management of repositories based on Git. GitHub-like. Can be self-hosted.
