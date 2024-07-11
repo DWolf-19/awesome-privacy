@@ -121,6 +121,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 
 <img src="assets/check.svg"></img> **Instead use**:
 - [Telegram](https://telegram.org/) - Robust, feature-rich and extremely popular messenger. Official clients are open source. End-to-end encrypted communication can be done through **secret chats** feature.
+    - [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram App for Android. All dependencies on Google Services are removed. Available on F-Droid. **Warning:** you can't sign up in third-party apps.
 - [Signal](https://signal.org/) - State-of-the-art end-to-end encrypted messenger (powered by the open source Signal Protocol). Extreme focus on privacy. Backend is also open sourced.
     - [Molly](https://molly.im/) - Hardened Signal fork for Android. Supports [reproducible builds](https://en.wikipedia.org/wiki/Reproducible_builds) and avalaible on F-Droid. 
 - [Revolt](https://revolt.chat/) - Discord-like social platform with lots of cool features and FOSS backend.
