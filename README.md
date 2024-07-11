@@ -24,6 +24,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - [Git Hosting](#git-hosting)
     - [GitHub](#github)
 - [Mail](#mail)
+- [Maps](#maps)
 - [Messaging & Calls](#messaging--calls)
 - [Note-taking](#note-taking)
 - [Office](#office)
@@ -100,6 +101,15 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - [Proton Mail](https://proton.me/mail) - End-to-end encryption ensure only you can see your emails. Proton is incorporated and headquartered in Switzerland. Official clients are open source and independently audited.
 - [Thunderbird](https://www.thunderbird.net/en-US/) - Cross-platform desktop email client. Access all your messages, calendars, and contacts in one fast app. Filter and organize the way you like. Manage all accounts separately or in a unified inbox. 
 - [K-9 Mail](https://k9mail.app/) - Open source email client focused on making it easy to chew through large volumes of email. [K-9 Mail will transform into Thunderbird for Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/).
+
+## Maps
+
+<img src="assets/avoid.svg"></img> **Avoid**:
+- Google Maps - Under a [Google's very bad privacy policy](https://tosdr.org/en/service/217).
+
+<img src="assets/check.svg"></img> **Instead use**:
+- [OpenStreetMap](https://www.openstreetmap.org/) - Free, open geographic database updated and maintained by a community of volunteers.
+    - [OsmAnd](https://osmand.net/) - Project aims at providing comfortable map viewing and navigation app for mobile devices (uses OSM database). Particular stress lies with complete offline features (via pre-loaded offline map data) or economic internet usage. 
 
 ## Messaging & Calls
 
