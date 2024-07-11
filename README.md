@@ -120,7 +120,9 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - Skype - Under a [Microsoft's very bad privacy policy](https://tosdr.org/en/service/244).
 
 <img src="assets/check.svg"></img> **Instead use**:
-- [Telegram](https://telegram.org/) - Robust, feature-rich and extremely popular messenger. Official clients are open source. End-to-end encrypted communication can be done through **secret chats** feature. 
+- [Telegram](https://telegram.org/) - Robust, feature-rich and extremely popular messenger. Official clients are open source. End-to-end encrypted communication can be done through **secret chats** feature.
+- [Signal](https://signal.org/) - State-of-the-art end-to-end encrypted messenger (powered by the open source Signal Protocol). Extreme focus on privacy. Backend is also open sourced.
+    - [Molly](https://molly.im/) - Hardened Signal fork for Android. Supports [reproducible builds](https://en.wikipedia.org/wiki/Reproducible_builds) and avalaible on F-Droid. 
 - [Revolt](https://revolt.chat/) - Discord-like social platform with lots of cool features and FOSS backend.
 - <img src="assets/decentralized.svg"></img> [Matrix (Protocol)](https://matrix.org/) - An open network for secure, decentralised communication.
     - [Element](https://matrix.org/ecosystem/clients/element/) - Matrix client with an emphasis on performance and usability. Cross-platform. Founded by the creators of Matrix.
