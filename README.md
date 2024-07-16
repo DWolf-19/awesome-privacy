@@ -206,7 +206,11 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - <img src="assets/decentralized.svg"></img> <img src="assets/fediverse.svg"></img> [PeerTube](https://joinpeertube.org/) - Decentralized video hosting. PeerTube allows platforms to be connected to each other, creating a big network of platforms that are both autonomous and interconnected. No ads, trackers, or premium subscriptions.
 
 <img src="assets/check.svg"></img> **Alternative YouTube clients:**
-- <img src="assets/law.svg"></img> <img src="assets/pay.svg"></img> [LibreTube](https://libretube.dev/) - A beautiful alternative frontend for YouTube for Android using [Piped](https://github.com/TeamPiped/Piped). Built with Material Design.
+- <img src="assets/law.svg"></img> <img src="assets/pay.svg"></img> [Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. 
+    - [LibreTube](https://libretube.dev/) - A beautiful alternative frontend for YouTube for Android using [Piped](https://github.com/TeamPiped/Piped). Built with Material Design.
+- <img src="assets/law.svg"></img> <img src="assets/pay.svg"></img> [Invidious](https://invidious.io/) -  Open source alternative frontend to YouTube. No JavaScript required.
+    - [Clipious](https://github.com/lamarios/clipious) - Invidious client for Android.
+- <img src="assets/law.svg"></img> <img src="assets/pay.svg"></img> [ViewTube](https://viewtube.io/) - Alternative YouTube frontend that lets you watch, search and discover YouTube videos without ads or tracking. It's built to be mobile and desktop friendly, with dark and light themes, and a touch-friendly video player with gestures.
 
 ## Search Engines
 
@@ -234,7 +238,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
     - [Eternity](https://codeberg.org/Bazsalanszky/Eternity) - A Lemmy client for Android written in Java. Beatiful and customizable.
 
 <img src="assets/check.svg"></img> **Alternative Reddit clients:**
-- [Redlib](https://github.com/redlib-org/redlib) - An alternative private frontend to Reddit, with its origins in Libreddit. 
+- <img src="assets/law.svg"></img> [Redlib](https://github.com/redlib-org/redlib) - An alternative private frontend to Reddit, with its origins in Libreddit. 
 
 ### X (Twitter)
 
