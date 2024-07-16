@@ -35,6 +35,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
         - [Basic Apps](#basic-apps)
 - [Password Managers](#password-managers)
 - [Platforms](#platforms)
+    - [Spotify](#spotify)
     - [YouTube](#youtube)
 - [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
@@ -198,6 +199,13 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - [KeePassDX](https://www.keepassdx.com/) - Open source password manager for Android. Compatible with KeePass format.
 
 ## Platforms
+### Spotify
+
+<img src="assets/avoid.svg"></img> Avoid Spotify or at least official clients.
+
+<img src="assets/check.svg"></img> **Alternative Spotify clients**:
+- [Spotube](https://spotube.krtirtho.dev/) - An open source, cross-platform Spotify client compatible across multiple platforms utilizing Spotify's public data API and YouTube, Piped or JioSaavn as an audio source.
+
 ### YouTube
 
 <img src="assets/avoid.svg"></img> Avoid YouTube or at least official clients.
