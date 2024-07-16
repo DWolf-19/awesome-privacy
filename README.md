@@ -230,6 +230,8 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 
 <img src="assets/check.svg"></img> **Instead use**:
 - <img src="assets/decentralized.svg"></img> <img src="assets/fediverse.svg"></img> [Lemmy](https://join-lemmy.org/) - Social link aggregation and discussion platform. It is completely free and open, and not controlled by any company. This means that there is no advertising, tracking, or secret algorithms. Content is organized into communities, so it is easy to subscribe to topics that you are interested in, and ignore others. Voting is used to bring the most interesting items to the top.
+    - [Photon](https://github.com/Xyphyn/photon) - A replacement for lemmy-ui (official web app) with more features, a better design, and more customizability.
+    - [Eternity](https://codeberg.org/Bazsalanszky/Eternity) - A Lemmy client for Android written in Java. Beatiful and customizable.
 
 ### X (Twitter)
 
