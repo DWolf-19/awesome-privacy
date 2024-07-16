@@ -233,6 +233,9 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
     - [Photon](https://github.com/Xyphyn/photon) - A replacement for lemmy-ui (official web app) with more features, a better design, and more customizability.
     - [Eternity](https://codeberg.org/Bazsalanszky/Eternity) - A Lemmy client for Android written in Java. Beatiful and customizable.
 
+<img src="assets/check.svg"></img> **Alternative Reddit clients:**
+- [Redlib](https://github.com/redlib-org/redlib) - An alternative private frontend to Reddit, with its origins in Libreddit. 
+
 ### X (Twitter)
 
 <img src="assets/avoid.svg"></img> Avoid X (Twitter) or at least official clients.
