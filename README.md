@@ -287,4 +287,5 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
     - [Mull](https://github.com/Divested-Mobile/mull-fenix) - Firefox for Android without prebuilts along with removal of the proprietary blobs.
     - [Tor Browser](https://www.torproject.org/) - Tor is a free overlay network for enabling anonymous communication. Built on free and open-source software and more than seven thousand volunteer-operated relays worldwide, users can have their Internet traffic routed via a random path through the network.
 - [Brave](https://brave.com/) - It blocks privacy-invasive ads & trackers and third-party data storage by default. Has protection from browser fingerprinting.
+- [DuckDuckGo Browser](https://duckduckgo.com/app) - Search and browse more privately with the DuckDuckGo browser and DuckDuckGo search engine by default.
 - <img src="assets/advanced.svg"></img> [Ungoogled Chromium](https://ungoogled-software.github.io/) - Google Chromium, sans integration with Google. Use if you need pure Chromium experience. Needs additional tweaking for normal work.
