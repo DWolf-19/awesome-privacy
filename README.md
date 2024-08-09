@@ -195,8 +195,10 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - Closed source password managers.
 
 <img src="assets/check.svg"></img> **Instead use**:
+- [Proton Pass](https://proton.me/pass) - Open source password manager for effortless protection. Has cloud sync.
 - [KeePassXC](https://keepassxc.org/) - Offline password manager. No-nonsense, ad-free, tracker-free, and cloud-free. Free and open source. Compatible with KeePass format.
 - [KeePassDX](https://www.keepassdx.com/) - Open source password manager for Android. Compatible with KeePass format.
+- [Strongbox](https://strongboxsafe.com/) - A KeePass-compatible iPhone, iPad and macOS password manager.
 
 ## Platforms
 ### Spotify
