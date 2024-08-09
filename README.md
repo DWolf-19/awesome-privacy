@@ -157,6 +157,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
     - [Fedora](https://fedoraproject.org/) - A beautiful, high-quality desktop. Trusted, powerful and easy. Built on the latest technologies and enhancements that open source has to offer.
     - [Debian](https://www.debian.org/) - Most users appreciate the stability, and the smooth upgrade processes of both packages and the entire distribution. Debian is also widely used by software and hardware developers because it runs on numerous architectures and devices.
         - [Ubuntu](https://ubuntu.com/) - Debian-based OS that are powers millions of PCs and laptops around the world right now. Has unique out-of-the-box Windows-like desktop experience ([GNOME](https://www.gnome.org/) with some extensions).
+            - [Linux Mint](https://www.linuxmint.com/) - User-friendly Linux distribution. Compared to standard Ubuntu, it uses the [Cinnamon](https://projects.linuxmint.com/cinnamon/) desktop environment.
     - <img src="assets/advanced.svg"></img> [Arch Linux](https://archlinux.org/) - x86-64 general-purpose Linux distribution that strives to provide the latest stable versions of most software by following a [rolling-release model](https://en.wikipedia.org/wiki/Rolling_release). Advanced OS with its own deep philosophy.
 
 ### Mobile (Android)
