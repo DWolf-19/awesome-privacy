@@ -233,6 +233,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 
 <img src="assets/check.svg"></img> **Instead use**:
 - [DuckDuckGo](https://duckduckgo.com/) - A privacy respecting search engine. [All ads in search results are private](https://duckduckgo.com/duckduckgo-help-pages/company/how-duckduckgo-makes-money/) and non-intrusive. Ads can be fully disabled in settings (**not recommended**).
+- [Brave Search](https://search.brave.com/) - Independent and private search engine from the creators of the [Brave Browser](https://brave.com/). Brave delivers results from its own, built-from-scratch index.
 
 ## Social Networks
 ### Instagram
