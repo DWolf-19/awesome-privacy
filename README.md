@@ -90,7 +90,9 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 
 <img src="assets/check.svg"></img> **You can also use**:
 - [GitLab](https://about.gitlab.com/) - The most advanced all-in-one DevSecOps platform. You can self-host it on your own server.
-- [Codeberg](https://codeberg.org/) - Collaboration platform providing Git hosting and services for free and open source software. Codeberg is maintained by the non-profit organization Codeberg e.V., based in Berlin, Germany. No tracking. No third-party cookies. No profiteering. 
+- [Forgejo](https://forgejo.org/) - Self-hosted lightweight software forge.
+Easy to install and low maintenance. You can create an account on [Codeberg](https://codeberg.org/) and other instances or download it to self-host your own. It focuses on security, scaling, federation and privacy.
+    - [Codeberg](https://codeberg.org/) - Collaboration platform providing Git hosting and services for free and open source software. Codeberg is maintained by the non-profit organization Codeberg e.V., based in Berlin, Germany. No tracking. No third-party cookies. No profiteering. 
 - [Gitea](https://about.gitea.com/) - Enables the creation and management of repositories based on Git. GitHub-like. Can be self-hosted.
 
 ## Mail
