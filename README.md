@@ -279,6 +279,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 <img src="assets/check.svg"></img> **Instead use**:
 - [ProtonVPN](https://protonvpn.com/) - Secure VPN from trusted vendor based in privacy-respecting jurisdiction (Switzerland).
 - [Mullvad VPN](https://mullvad.net/en) - Private VPN with open source clients (based in Sweden).
+- [AmneziaVPN](https://amnezia.org/en) - Simple and free app to run a self-hosted VPN with high privacy requirements. Enter the IP-address, username and password of your server, and the program will automatically configure everything to connect via VPN.
 - <img src="assets/advanced.svg"></img> [OpenVPN (Protocol)](https://openvpn.net/) - Popular VPN protocol. Implements both client and server apps. OpenVPN allows peers to authenticate each other using pre-shared secret keys, certificates or username/password.
     - [OpenVPN for Android](https://github.com/schwabe/ics-openvpn) - Feature-rich OpenVPN Android client.
 - <img src="assets/advanced.svg"></img> [WireGuard (Protocol)](https://www.wireguard.com/) - Simple, fast and modern VPN that uses state-of-the-art cryptography and runs on various platforms.
