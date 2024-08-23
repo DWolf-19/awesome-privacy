@@ -169,6 +169,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - [GrapheneOS](https://grapheneos.org/) - Security-oriented Android-based operating system (Google Pixel only). It's focused on the research and development of privacy and security technology including substantial improvements to [sandboxing](https://en.wikipedia.org/wiki/Sandbox_(computer_security)), exploit mitigations and the permission model.
 - [LineageOS](https://lineageos.org/) - Free and open-source operating system for various devices, based on the Android mobile platform.
     - [/e/OS](https://e.foundation/e-os/) - Open source mobile operating system paired with carefully selected applications. Google Services have been replaced by [microG](https://microg.org/).
+- [CalyxOS](https://calyxos.org/) - Android mobile operating system that puts privacy and security into the hands of everyday users. 
 
 #### App Stores
 
