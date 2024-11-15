@@ -53,6 +53,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 
 <img src="assets/check.svg"></img> **Instead use**:
 - [Aegis](https://getaegis.app/) - Free, secure and open source app for Android to manage your 2-step verification tokens for your online services.
+- [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator. Provides end-to-end encrypted cloud backups so you don't have to worry about losing your tokens. Available for every platform.
 
 ## Design Tools
 
