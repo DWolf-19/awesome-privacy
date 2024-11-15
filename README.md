@@ -74,6 +74,7 @@ Inspired by [Awesome Privacy list on GitHub](https://github.com/pluja/awesome-pr
 - [VSCodium](https://vscodium.com/) - Free/libre open source software binaries of VS Code.
 - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) - IntelliJ IDEA stands out with unrivaled Java and Kotlin support. Stay ahead of the curve with cutting-edge language features supported from the get-go.
 - [PyCharm Community](https://www.jetbrains.com/pycharm/) - PyCharm has all of the Python tools you need for data science and web development in one place, ready to use from the get-go.
+- [Neovim](https://neovim.io/) - Hyperextensible Vim-based text editor.
 
 ## Game Launchers
 
