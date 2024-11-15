@@ -104,8 +104,7 @@ Easy to install and low maintenance. You can create an account on [Codeberg](htt
 
 <img src="assets/check.svg"></img> **Instead use**:
 - [Proton Mail](https://proton.me/mail) - End-to-end encryption ensure only you can see your emails. Proton is incorporated and headquartered in Switzerland. Official clients are open source and independently audited.
-- [Thunderbird](https://www.thunderbird.net/en-US/) - Cross-platform desktop email client. Access all your messages, calendars, and contacts in one fast app. Filter and organize the way you like. Manage all accounts separately or in a unified inbox. 
-- [K-9 Mail](https://k9mail.app/) - Open source email client focused on making it easy to chew through large volumes of email. [K-9 Mail will transform into Thunderbird for Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/).
+- [Thunderbird](https://www.thunderbird.net/en-US/) - Cross-platform desktop (& Android) email client. Access all your messages, calendars, and contacts in one fast app. Filter and organize the way you like. Manage all accounts separately or in a unified inbox. 
 
 ## Maps
 
