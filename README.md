@@ -145,6 +145,7 @@ Easy to install and low maintenance. You can create an account on [Codeberg](htt
 
 <img src="assets/check.svg"></img> **Instead use**:
 - [LibreOffice](https://www.libreoffice.org/) - Free and powerful office suite. Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
+- [ONLYOFFICE](https://www.onlyoffice.com/) - Free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF. Share your docs for viewing, editing, reviewing, commenting, or filling forms.
 
 ## Operating Systems
 
